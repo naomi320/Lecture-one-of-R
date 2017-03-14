@@ -24,5 +24,5 @@
  * 周日，周日啥也没干，起个大晚，吃过午饭，就买票回学校了，在路上用手机看起了三体，突然就入坑了
  感觉时间过得太快了，匆匆，无影踪，来不及看专业书做作业看小说看电视剧就过去了
  
-docker run -p 4000:4000 -v `pwd`:/app mangar/jekyll:1.1 bash -c "bundle install; bundle exec jekyll serve"
-$$\int^b_aF(x)dx $$
+docker run -p 4000:4000 -v `pwd`:/app mangar/jekyll:1.1 bash -c "bundle install; bundle exec jekyll serve
+$$ \int^b_af(x)dx $$
