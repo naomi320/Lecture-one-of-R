@@ -1,5 +1,6 @@
 # 周末记
-docker run -p 4000:4000 -v `pwd`:/app mangar/jekyll:1.1 bash -c "bundle install; bundle exec jekyll serve
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+
 周末去帮刚搬完家的基友收拾新窝，并顺便*祝贺*她顺利搬出市区住进城郊结合部走在*逆城市化*的时代前沿
  * 周五起个大早，搭乘公交然后转地铁换乘来到火车站，顺利赶上车，然后很快就来到火车站，并根据她给的路线顺利换乘了两趟地铁来到她住的小区，八通线附近的双桥小区
   + 一下地铁站，似曾相识的感觉普遍而来，时光错置，感觉回到了四年前的迎水道校区外面的王顶堤，一样的熙熙攘攘，充满生活气息和市井气。到她的住处放完书包后遂又出门觅食。
